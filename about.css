@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+    color: #fff;
+}
+
+html,
+body {
+
+    height: 100%;
+    width: 100%;
+    scroll-behavior: smooth;
+    overflow:auto;
+}
+
+.pg--6{
+    scroll-behavior: smooth;
+    margin-top:70px;
+    
+}
+
+
